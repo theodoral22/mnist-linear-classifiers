@@ -76,7 +76,7 @@ $W_{new}=W-a\cdot outer(error,x)$
 </p>
 
 ## 📁 Repository Structure
-* `src/linear_classifiers.py`: The pure Python/NumPy implementation of the algorithms.
+* `linear_classifiers.ipynb`: The pure Python/NumPy implementation of the algorithms.
 * `mnist_linear_classifiers_report.pdf`: Contains the detailed 40-page academic report.
 * `images/`: Directory containing generated learning curves, confusion matrices, and classification examples.
 
