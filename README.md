@@ -3,7 +3,7 @@
 This repository contains the implementation and analysis of three custom-built linear classification models from scratch to classify handwritten digits from the MNIST dataset: Perceptron (One-versus-One), Perceptron (One-versus-All), and a Linear Classifier with Softmax.
 
 ## 📄 Full Project Report
-[cite_start]For a deep dive into the methodology, mathematical background, learning curves, and a detailed analysis of the misclassifications and confusion matrices, please read the **[Full Project Report (PDF)](mnist_linear_classifiers_report.pdf)**[cite: 16].
+[cite_start]For a deep dive into the methodology, mathematical background, learning curves, and a detailed analysis of the misclassifications and confusion matrices, please read the **[Full Project Report (PDF)](linear_classifiers_report.pdf)**.
 
 ## 📌 Project Overview
 The goal of this project is to implement, evaluate, and compare three multi-class linear classification models using only `numpy`.
